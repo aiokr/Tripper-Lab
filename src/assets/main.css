@@ -1,0 +1,10 @@
+@import './base.css';
+
+root {
+    --main-color: #71afdd;
+}
+
+body {
+    background-color: #000000;
+    color: #fff
+}
